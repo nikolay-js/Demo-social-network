@@ -1,0 +1,139 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Valera",
+            "status": "Hey there",
+            "location": {
+                "city": "Moscow",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 2,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": true,
+            "fullName": "Victor",
+            "status": "Hey there",
+            "location": {
+                "city": "Chekhov",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 3,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Stas",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 4,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Peter",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 5,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Boris",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 6,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Lena",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 7,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Masha",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 8,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Oleg",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 9,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Natasha",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 10,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Olga",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        },
+        {
+            "id": 11,
+            "photoUrl": "/images/1birds.jpg",
+            "followed": false,
+            "fullName": "Dima",
+            "status": "Hey, look in for",
+            "location": {
+                "city": "Podolsk",
+                "country": "Russia"
+            }
+        }
+    ],
+    "auth": [
+        {
+            "id": 1,
+            "email": "sabaka@barabaka",
+            "login": false,
+            "fullName": "Valera",
+            "status": "Hey there",
+            "profile": {
+                "city": "Moscow",
+                "country": "Russia"
+            }
+        }
+    ]
+
+}

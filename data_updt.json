@@ -1,0 +1,286 @@
+{
+  "users": [
+    {
+      "items": [
+        {
+          "id": 0,
+          "photoUrl": "/images/1+1birds.jpg",
+          "followed": false,
+          "fullName": "Valera",
+          "status": "Wazzzaaaap",
+          "location": {
+            "city": "Moscow",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 1,
+          "photoUrl": "/images/1_birds.jpg",
+          "followed": true,
+          "fullName": "Victor",
+          "status": "Hey, what are you looking for",
+          "location": {
+            "city": "Chekhov",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 2,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Stas",
+          "status": "Hi everyone",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 3,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Peter",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 4,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Boris",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 5,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Lena",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 6,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Masha",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 7,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Oleg",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 8,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Natasha",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 9,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Olga",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        },
+        {
+          "id": 10,
+          "photoUrl": "/images/1birds.jpg",
+          "followed": false,
+          "fullName": "Dima",
+          "status": "Hey, look in for",
+          "location": {
+            "city": "Podolsk",
+            "country": "Russia"
+          }
+        }
+      ]
+    },
+    {
+      "totalCount": 11
+    }
+  ],
+  "auth": [
+    {
+      "id": 1,
+      "email": "sabaka@barabaka",
+      "login": "Valera"
+    },
+    {
+      "resultCode": 1,
+      "id": 2
+    }
+  ],
+  "login": [],
+  "follow": [
+    {
+      "id": 2,
+      "follow": false
+    },
+    {
+      "resultCode": 0
+    }
+  ],
+  "profile": [
+    {
+      "id": 0,
+      "photoUrl": "/images/1+1birds.jpg",
+      "status": "Wazzzaaaap",
+      "contacts": {
+        "facebook": "facebooktest",
+        "github": "githubtest",
+        "vk": "vktest"
+      }
+    },
+    {
+      "id": 1,
+      "photoUrl": "/images/1_birds.jpg",
+      "status": "Hey, what are you looking?",
+      "contacts": {
+        "facebook": "",
+        "github": "",
+        "vk": "testvk"
+      }
+    },
+    {
+      "id": 2,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hi everyone",
+      "contacts": {
+        "facebook": "testfacebook",
+        "github": "",
+        "vk": ""
+      }
+    },
+    {
+      "id": 3,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "",
+        "github": "testgithub",
+        "vk": ""
+      }
+    },
+    {
+      "id": 4,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 5,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, what are you looking for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 6,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 7,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 8,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 9,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "id": 10,
+      "photoUrl": "/images/1birds.jpg",
+      "status": "Hey, look in for",
+      "contacts": {
+        "facebook": "test",
+        "github": "test",
+        "vk": "test"
+      }
+    },
+    {
+      "resultCode": 0
+    }
+  ],
+  "status": {
+    "id": 2,
+    "status": "123"
+  },
+  "stattus": [
+    {
+      "id": 0,
+      "status": "Wazzzaaaap"
+    },
+    {
+      "id": 1,
+      "status": "123"
+    },
+    {
+      "id": 2,
+      "status": "Hi everyone"
+    }
+  ]
+}

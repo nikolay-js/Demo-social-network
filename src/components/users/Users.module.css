@@ -1,0 +1,27 @@
+.userPhoto {
+    width: 80px;
+    height: 80px;
+    border-radius: 200px;
+  }
+
+  .selectedPage {
+    font-weight: bold;
+    font-size: large;
+  }
+
+  .users {
+    display: flex;
+    margin-top: -2px;
+    margin-bottom: -2px;
+    margin-left: -2px;
+    padding: 1% 1%;
+    border: solid white 3px;
+  }
+  .user {
+    text-align: center;
+  }
+  .userName {
+    text-align: center;
+    margin: auto;
+    margin-left: 5%;
+  }

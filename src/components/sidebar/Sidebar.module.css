@@ -1,0 +1,29 @@
+.sidebar {
+  border: 1px solid mintcream;
+}
+.users {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.userPhoto {
+    width: 30px;
+    height: 30px;
+    border-radius: 200px;
+  }
+.userName {
+    padding-left: 5px;
+  }
+.toggle {
+    clear: both;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    width: 100%;
+    color: #000;
+    background: #ffcc01;
+    transition: all .1s linear;
+}

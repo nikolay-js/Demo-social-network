@@ -1,0 +1,18 @@
+.header {
+    grid-area: h;
+    background-color: greenyellow;
+  }
+  
+  .header img {
+    width: 80px;
+  }
+
+  .button {
+    /* background-color: greenyellow; */
+    border-radius: 20px;
+  }
+
+  .navLink {
+    color: whitesmoke;
+    text-decoration: none;
+  }

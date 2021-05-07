@@ -1,0 +1,14 @@
+.postsBlock {
+    margin: 10px;
+    padding: 10px;
+    padding-right: 0;
+    padding-bottom: 0;
+    border: solid white 3px;
+}
+
+.posts {
+    margin-top: 15px;
+}
+h3 {
+    margin-block-start: 0;
+}

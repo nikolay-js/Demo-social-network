@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: greenyellow;
+    padding: 20px;
+  }
+
+  .item a {
+      color: mintcream;
+      text-decoration: none;
+  }
+  .item a.activeLink {
+      color: gray;
+  }
+  .friends {
+      margin-top: 15px;
+  }
